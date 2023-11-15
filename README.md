@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me me chamo Jeferson Ramos da Silva, sou um programador Front End. Pretendo me formar esse ano de 2023 para ingressas de vez em uma empresa e poder trabalhar somento com programação. Estou fazendo projetos de:
+Me me chamo Jeferson Ramos da Silva, sou um programador Front End. Pretendo me formar esse ano de 2023. Estou fazendo projetos de:
 <br/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
